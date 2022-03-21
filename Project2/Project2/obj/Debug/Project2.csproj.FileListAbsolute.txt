@@ -1,0 +1,12 @@
+S:\iamolina\ISYS3393\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+\\wfs.uark.edu\Enterprise$\iamolina\ISYS3393\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+S:\iamolina\ISYS3393\Project2\Project2\Project2\bin\Debug\Project2.exe.config
+S:\iamolina\ISYS3393\Project2\Project2\Project2\bin\Debug\Project2.exe
+S:\iamolina\ISYS3393\Project2\Project2\Project2\bin\Debug\Project2.pdb
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.Form2.resources
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.exe
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.pdb
+S:\iamolina\ISYS3393\Project2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
